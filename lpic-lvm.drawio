@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T20:12:30.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="723MoN1OdDcOs1zv7Ker" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-08T20:14:06.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="LjAAopApntV_vbvQiQmR" version="14.1.8" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1709" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -212,6 +212,15 @@
         </mxCell>
         <mxCell id="0ogWrCx-0VYVaQKFf6Zu-28" value="Logical Volume (LV)" style="text;html=1;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fontFamily=Lucida Console;glass=0;sketch=0;shadow=0;" vertex="1" parent="0ogWrCx-0VYVaQKFf6Zu-1">
           <mxGeometry x="507" y="220" width="180" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="0ogWrCx-0VYVaQKFf6Zu-30" value="&lt;pre style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;/dev/mapper/vgsys-var&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;/dev/vgsys/var&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;/dev/VG/LV&lt;/span&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;rounded=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="0ogWrCx-0VYVaQKFf6Zu-1">
+          <mxGeometry x="507" y="109" width="178" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="0ogWrCx-0VYVaQKFf6Zu-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;fontFamily=Lucida Console;fontColor=#000000;exitX=1;exitY=0.542;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.004;entryY=0.481;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0ogWrCx-0VYVaQKFf6Zu-1" source="0ogWrCx-0VYVaQKFf6Zu-12" target="0ogWrCx-0VYVaQKFf6Zu-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="445" y="153" as="sourcePoint" />
+            <mxPoint x="495" y="103" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
